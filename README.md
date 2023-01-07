@@ -1,6 +1,8 @@
 - 👋 Hi, I’m María Sol Rosito, Ph.D.
-- :telescope: I'm a Research Data Scientist. Mathematician and Physicist.
-- :computer: I'm experienced in Statistics, Machine Learning, and Astrophysical Data Analysis.
+- :chart_with_upwards_trend: I'm a **Research Data Scientist**. Mathematician, and Physicist.
+- :bar_chart: I'm experienced in **Statistics**, **Machine Learning**, and Astrophysical **Data Analysis**.
+- :telescope: See my latest project about dimensionality reduction and clustering algorithms for the classification of galaxy images here [[doi]](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202244707) [[arXiv]](https://arxiv.org/abs/2212.03999), and my academic publications at [Google Scholar](https://scholar.google.com/citations?hl=es&user=rvD44CsAAAAJ&view_op=list_works&sortby=pubdate).
+- :computer: Take a look at [my repository](https://github.com/msrosito/datascience-machinelearning) on Data Science and Machine Learning exercises using the **Python** ecosystem and **SQL**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-sol-rosito-phd-3686104a/), msrosito@gmail.com, msrosito@iafe.uba.ar, msrosito@dm.uba.ar.
 - :muscle: I'm open to work.
 

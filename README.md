@@ -3,7 +3,8 @@
 - :chart_with_upwards_trend: I'm a **Researcher** and **Data Scientist**. Mathematician and Physicist experienced in **Statistics** and **Machine Learning**.
 - :muscle: I work at the [Department of Data Science](https://ds.dfci.harvard.edu). Dana-Farber Cancer Institute and the [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/). Harvard T.H. Chan School of Public Health. Harvard University.
 - :books: Ex-MIT Project Course Instructor at [MIT Introduction to Technology, Engineering and Science](https://mites.mit.edu/discover-mites/mites-semester/). See [course respository](https://github.com/msrosito/data-to-predictions).
-- :telescope: See my latest project about dimensionality reduction and clustering algorithms for the classification of galaxy images here [[DOI]](https://www.aanda.org/articles/aa/full_html/2023/03/aa44707-22/aa44707-22.html), and my academic publications at [Google Scholar](https://scholar.google.com/citations?hl=es&user=rvD44CsAAAAJ&view_op=list_works&sortby=pubdate).
+- 📖 View my academic publications on [Google Scholar](https://scholar.google.com/citations?hl=es&user=rvD44CsAAAAJ&view_op=list_works&sortby=pubdate).
+- :telescope: Recent project: dimensionality reduction and clustering algorithms for the classification of galaxy images here [[DOI]](https://www.aanda.org/articles/aa/full_html/2023/03/aa44707-22/aa44707-22.html)
 - :computer: Take a look at [my repository](https://github.com/msrosito/datascience-machinelearning) on Data Science and Machine Learning exercises using the **Python** ecosystem and **SQL**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sol-rosito-phd-3686104a/), msrosito@ds.dfci.harvard.edu, msrosito@mit.edu
 
